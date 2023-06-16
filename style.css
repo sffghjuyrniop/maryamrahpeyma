@@ -1,0 +1,29 @@
+body{
+	background-image: url("bg (1).jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box{
+	width: 90%;
+	height: 400px;
+	margin-top: 900px;
+	margin-left: 58px;
+	position: relative;
+}
+.item{
+	position: absolute;
+	width: 250px;
+	height: 250px;
+}
+.wat{
+	left: -19px;
+	top: 178px;
+}
+.ins{
+	left: 313px;
+    top: 282px;
+}
+.tel{
+	top: 174px;
+    left: 630px
+}
